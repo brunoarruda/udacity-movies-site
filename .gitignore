@@ -1,0 +1,16 @@
+# local files
+local/
+
+# sensible config files
+*.config
+movie_list.txt
+
+# temporary files
+desktop.ini
+temp
+tmp
+.vscode
+
+# python temporary files and folders
+__pycache__
+*.pyc
